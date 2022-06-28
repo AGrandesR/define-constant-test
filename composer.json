@@ -1,0 +1,18 @@
+{
+    "name": "agrandesr/constant-code",
+    "description": "Esta es una descripci\u0000n random puesta en el generador",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AgrandesR\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agrandesr",
+            "email": "agrandesr@gmail.com"
+        }
+    ],
+    "require": {}
+}
